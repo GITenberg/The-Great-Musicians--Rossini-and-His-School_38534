@@ -1,0 +1,35 @@
+_repo: The-Great-Musicians--Rossini-and-His-School_38534
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38534-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Edwards, H. Sutherland (Henry Sutherland)
+    aliases:
+    - Edwards, Sutherland
+    - Edwards, Henry Sutherland
+    birthdate: 1828
+    deathdate: 1906
+    gutenberg_agent_id: '39520'
+    url: http://www.gutenberg.org/2009/agents/39520
+description: ''
+gutenberg_issued: '2012-01-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38534'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ML'
+- !lcsh 'Opera -- Italy -- 19th century'
+- !lcsh 'Rossini, Gioacchino, 1792-1868'
+tableOfContents: Rossini's childhood and youth -- La pietra del paragone -- Italian
+  opera until the time of Rossini -- Tancredi -- Operatic customs in the time of Rossini
+  -- Rossini at Naples -- Preparations for the Barber -- Il barbiere -- Rossini and
+  the comic in music -- From Otello to Semiramide -- Rossini on his travels -- Donizetti
+  and Bellini -- Verdi.
+title: 'The Great Musicians: Rossini and His School'
+url: http://www.gutenberg.org/ebooks/38534
